@@ -1,8 +1,6 @@
 # CirculosSVG
 Desenho de padrões de círculos com SVG
 
-Desenho de padrões com círculos - SVG
-
 Quando eu era adolescente, vi uma espécie de régua, que permitia fazer padrões bonitos a partir de elipses.
 
 Era um negócio desse tipo:
@@ -20,8 +18,20 @@ Algumas convenções:
     E o ângulo, em graus, é o ângulo entre um círculo e outro.
 
 
+A ilustração a seguir dá uma ideia desses parâmetros.
 
-Vide 
+![](https://ferramentasexcelvba.files.wordpress.com/2020/04/circulos01.png)
+
+Obs. Como o ângulo é divisor de 360 graus, tem hora que os círculos ficam um sobre o outro.
+
+Com apenas esses conceitos, é possível gerar algumas variações interessantes.
+
+
+
+![](https://ferramentasexcelvba.files.wordpress.com/2020/04/circulos02.png)
+
+![](https://ferramentasexcelvba.files.wordpress.com/2020/04/circulos03.png)
+
 
 Acesse em:
 https://asgunzi.github.io/CirculosSVG/
